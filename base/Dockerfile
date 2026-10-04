@@ -20,7 +20,7 @@ RUN \
         bzip2-dev=1.0.8-r6 \
         dpkg-dev=1.23.7-r0 \
         dpkg=1.23.7-r0 \
-        expat-dev=2.8.4-r0 \
+        expat-dev=2.8.5-r0 \
         findutils=4.10.0-r1 \
         gcc=15.2.0-r5 \
         gdbm-dev=1.26-r0 \
