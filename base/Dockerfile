@@ -31,7 +31,7 @@ RUN \
         make=4.4.1-r4 \
         musl-dev=1.2.6-r2 \
         ncurses-dev=6.6_p20260516-r0 \
-        openssl-dev=3.5.8-r0 \
+        openssl-dev=3.5.9-r0 \
         pax-utils=1.3.9-r1 \
         readline-dev=8.3.3-r1 \
         sqlite-dev=3.53.4-r0 \
